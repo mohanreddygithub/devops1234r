@@ -1,0 +1,3 @@
+Name: Hari
+Location: Bangalore
+Role: Developer
